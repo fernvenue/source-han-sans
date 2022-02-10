@@ -6,5 +6,4 @@
 
 A mirror of **Source Han Sans | 思源黑体 | 思源黑體 | 思源黑體 香港 | 源ノ角ゴシック | 본고딕**.
 
-Adobe: [Source Han Serif - An open source Pan-CJK typeface](https://source.typekit.com/source-han-serif/)  
-GitHub: [adobe-fonts/source-han-sans](https://github.com/adobe-fonts/source-han-sans)
+Source: [adobe-fonts/source-han-sans](https://github.com/adobe-fonts/source-han-sans)
